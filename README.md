@@ -15,3 +15,4 @@ Explanation Explanation
 
 Link: https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
+![Image of Relative Position Type](https://i.imgur.com/hhte8Sm.png)
