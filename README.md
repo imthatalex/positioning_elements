@@ -41,7 +41,7 @@
 
 ```
 
-![Image of Relative Position Type](https://i.imgur.com/hhte8Sm.png)
+![Image of Relative Position Type](https://i.imgur.com/05HeuK7.png)
 
 
 # Position Type: Relative
@@ -110,7 +110,7 @@
 </div>
 ```
 
-![Image of Relative Position Type](https://i.imgur.com/hhte8Sm.png)
+![Image of Relative Position Type](https://i.imgur.com/KZeCMQx.png)
 
 
 
@@ -144,7 +144,7 @@
 
 ```
 
-![Image of Relative Position Type](https://i.imgur.com/87umeH1.png)
+![Image of Relative Position Type](https://i.imgur.com/ZYX0f7n.png)
 
 
 
@@ -177,7 +177,7 @@
 
 ```
 
-![Image of Relative Position Type](https://i.imgur.com/hhte8Sm.png)
+![Image of Relative Position Type](https://i.imgur.com/gc7zShb.png)
 
 
 
@@ -186,7 +186,7 @@
 
 # Links 
 
-## Relative 
+## Static
 https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
 
@@ -194,14 +194,14 @@ https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_element
 https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
 
-## Relative 
+## Absolute 
 https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
 
-## Relative 
+## Fixed 
 https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
 
-## Relative 
+## Sticky
 https://htmlpreview.github.io/?https://github.com/imthatalex/positioning_elements/blob/7a1407c650757f079bf1216b3e3e6c8cf84e1022/relative.html
 
