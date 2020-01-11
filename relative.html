@@ -1,17 +1,23 @@
-<!DOCTYPE html>
-    <html>
-        <head>
-            <style>
-                
-                p {
-                    color: red;
-                }
+<style>
+    #box_relative {
+        border: 5px solid red;
+        width: 120px;
+        height: 120px;
+        margin-bottom: auto;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
-            </style>
-        </head>
+    #box_relative div {
+        background-color: green;
+        height: 30px;
+        width: 30px;
+        position: relative;
+        right: 10px;
+    }
+</style>
 
-        <body> 
-            <p> red </p>
-        </body>
-
-    </html>
+<div id="box_relative">
+    <div></div>
+</div>
